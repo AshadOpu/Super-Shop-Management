@@ -1,0 +1,24 @@
+**************INSTRUCTIONS 
+
+
+
+**FIRST INSTALL ANY XAMPP SERVER  ON YOURE PC
+
+**OPEN PHP MY  ADMIN IMPORT THE "DATA.sql " FILE GIVEN 
+
+****CREATE USER ***
+USERNAME:dbuser
+password: dbpassword
+*************************
+
+
+****
+****IMPORT THE SOURCE CODE PROJECT ON ECLIPSE OF ANY VERSION.
+
+
+*****
+
+GOTO THE PACKAGE NAME "INTERFACE" and RUN THE CLASS  "MAIN_WINDOW"
+***********
+
+ENJOY OUR PRODUCT.
